@@ -1,0 +1,20 @@
+{
+	"servers": {
+		"Strayagaming Arma": {"server": "103.212.224.189:2303", "discord": "", "timeout": 10000},
+		"HLL TFK #1": {"server": "139.99.131.122:26662", "discord": "", "interval": 20},
+		"KZG Easy Surf #2": {"server": "139.99.144.113:27050", "discord": "", "attempts": 2}
+	},
+	"maps": {
+		"hlldir": {
+			"CT": "Carentan",
+			"Hill400": "Hill 400",
+			"Hurtgen": "Hürtgen Forest",
+			"Omaha": "Omaha Beach",
+			"PHL": "Purple Heart Lane",
+			"StMarie": "Sainte-Marie-du-Mont",
+			"SME": "Sainte-Mère-Église",
+			"Stalin": "Stalingrad",
+			"Utah": "Utah Beach"
+		}
+	}
+}
